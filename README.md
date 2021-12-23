@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Github](https://github-readme-stats.vercel.app/api?username=icrazt&show_icons=true)
 
-![count](https://count.getloli.com/get/@crazt?theme=rule34)
+![count](https://count.getloli.com/get/@crazt?theme=gelbooru)
 
 <!--
 **icrazt/icrazt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
